@@ -2,12 +2,10 @@
 
 ## Don't forget
 
-### In `hugozzine`:
-
+### In _hugozzine_:
 `./deploy.sh "write a commit message here to describe the changes you made"`
 
-Go back into `hugozzine`
-
+### Go back into `hugozzine`
 ```git add .
 git commit -m "a commit message"
 git push origin master```
