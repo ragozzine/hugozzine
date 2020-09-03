@@ -1,4 +1,5 @@
 baseURL = "https://ragozzine.github.io/"
+
 languageCode = "en-us"
 title = "John Ragozzine"
 theme = "ezhil"
@@ -10,18 +11,19 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-49362078-2"
 disqusShortname = ""
 
 summaryLength = 20
 
 [params]
+  Description = "Director of Agile Process at alley.co | Co-host of twoscrumsup.com podcast | Certified Scrum Master (CSM) | Project Management Professional (PMP) | I like birds."
 	subtitle = "Scrum, tech, and whatnot"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-	mode = "light" # "dark", "auto", "light"
+	mode = "dark" # "dark", "auto", "light"
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
 
 [[menu.main]]
