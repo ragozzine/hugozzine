@@ -1,6 +1,7 @@
 ## Don't forget
 
-In **hugozzine**:
+In **hugozzine**
+
 `./deploy.sh "write a commit message here to describe the changes you made"`
 
 Go back into **hugozzine**
