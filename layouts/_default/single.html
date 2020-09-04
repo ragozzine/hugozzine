@@ -51,6 +51,9 @@
 		{{- if eq ($.Scratch.Get "isDisqus") true -}}
 		{{- partial "disqus.html" . -}}
 		{{- end -}}
+
+		{{ partial "prev-next-post.html" . }}
+
 	</div>
 	{{ partial "footer.html" . }}
 </body>

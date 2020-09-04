@@ -1,0 +1,13 @@
+<hr />
+
+<div class="next-post">
+	{{ if .NextPage }}
+	&lbarr; Newer &lbarr; <a class="link-reverse" href="{{ .NextPage.Permalink }}">{{ .NextPage.Title | truncate 50 "..." }}</a>
+	{{ end }}
+</div>
+
+<div class="previous-post">
+	{{ if .PrevPage }}
+	<a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}}</a> &rbarr; Older &rbarr;
+	{{ end }}
+</div>
