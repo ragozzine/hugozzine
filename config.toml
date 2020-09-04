@@ -32,7 +32,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Articles"
 url = "/posts"
 weight = 2
 
@@ -41,15 +41,20 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+# [[menu.main]]
+# name = "Contact"
+# url = "/contact"
+# weight = 4
 
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/ragozzine"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/johnragozzine/"
 
 [[params.social]]
 name = "RSS"
