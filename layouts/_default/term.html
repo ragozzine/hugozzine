@@ -6,7 +6,18 @@
 	<div class="container wrapper tags">
 		{{ partial "head.html" . }}
 
-		<h1 class="page-title">All tags</h1>
+		<h2>Articles tagged in "{{ .Data.Term }}"</h1>
+
+		<ul class="posts">
+			{{- range .Data.Pages -}}
+				{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+				<li class="post">
+					<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+				</li>
+				{{- end -}}
+			{{- end -}}
+		</ul>
+
 	</div>
 
 	{{ partial "footer.html" . }}
