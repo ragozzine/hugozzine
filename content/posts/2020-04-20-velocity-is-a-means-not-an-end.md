@@ -3,6 +3,8 @@ layout: post
 title:  Velocity is a means, not an end
 date:   "2020-04-20"
 author: johnr
+type: posts
+tags: [scrum, velocity]
 ---
 
 Being a scrum master, I often worry if velocity looms too large for me. From project forecasting to sprint planning to team retrospectives, velocity metrics are up in my grill more than bratwurst at a Green Bay Packers tailgate. Even from a “book learnin’” standpoint, velocity is front and center: “[The Scrum Master is accountable for the Velocity ... of the Team.](https://www.google.com/url?q=https://www.scruminc.com/scrum-master/&sa=D&ust=1587399635486000&usg=AFQjCNF42myQw1FhTlaBorVJdBQY9J0qSA)” That big V Velocity is really intimidating! But does velocity warrant such verbal (and mental) emphasis?

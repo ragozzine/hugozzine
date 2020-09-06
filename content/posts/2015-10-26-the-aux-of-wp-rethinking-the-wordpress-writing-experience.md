@@ -3,6 +3,8 @@ layout: post
 title:  Rethinking the WordPress writing experience
 date:   2015-10-26  00:00:00
 author: johnr
+type: posts
+tags: [wordpress]
 ---
 
 Before I was a web professional, before all the project management, front-end coding, and CMS rejiggering, I was an English major. My BA is in writing and, as such, I tend to approach most things I do from the stance of an author.

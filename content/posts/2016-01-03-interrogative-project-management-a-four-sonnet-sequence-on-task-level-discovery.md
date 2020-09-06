@@ -3,6 +3,7 @@ layout: post
 title:  Interrogative project management, A four-sonnet sequence on task-level discovery
 date:   2016-01-03  00:00:00
 author: johnr
+type: posts
 ---
 
 Project management requires much asking  

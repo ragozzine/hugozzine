@@ -3,6 +3,7 @@ layout: post
 title:  Hide on mobile - A `display none` allegory
 date:   2016-11-20  01:01:01
 author: johnr
+type: posts
 ---
 
 Once upon a time, a traveler entered a nondescript pizza palace. On each of the red-and-white clothed tables were squat shakers of parmesan cheese and crushed red pepper. The air smelled of garlic, oregano, and all the trappings of traditional East Coast pizzerias.

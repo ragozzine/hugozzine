@@ -3,6 +3,7 @@ layout: post
 title:  2019 Resolutions - Three pluses, two minuses
 date:   2018-12-31  00:00:00
 author: johnr
+type: posts
 ---
 
 I'm of the opinion that having one, solitary new year's resolution is a bit of a cop-out. A single resolution, while admirable, is invariably too simple to fail (eat more salad) or too massive to be measurable (be a better person). Better to aim for that overlapping sweet spot of the Venn diagram, maximizing both quality _and_ quantity.

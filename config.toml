@@ -1,4 +1,4 @@
-baseURL = "https://ragozzine.github.io/"
+baseURL = "https://ragozzine.me/"
 
 languageCode = "en-us"
 title = "John Ragozzine"
@@ -25,6 +25,7 @@ summaryLength = 20
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+  # mainSections = "post"
 
 [[menu.main]]
 name = "Home"

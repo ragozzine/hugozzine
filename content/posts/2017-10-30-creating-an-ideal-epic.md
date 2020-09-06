@@ -3,6 +3,8 @@ layout: post
 title:  Creating an ideal epic
 date:   2017-10-30  00:00:00
 author: johnr
+type: posts
+tags: [scrum]
 ---
 
 What I like most about managing projects with Jira is the level of organization and filtering I can achieve by tagging tickets. As someone who used to keep his CD collection in alphabetical order by artist (with secondary ordering done by year), the tagging options help me structure projects in a deeply satisfying way&mdash;except for labels, which totally bite (mostly).
@@ -15,7 +17,7 @@ While not everyone uses components or fix versions (though you SHOULD) just abou
 
 Saying an epic is a large user story is akin to people explaining sprints as “little waterfalls.” I get how those explanations are arrived at—comparison is one of the easiest ways to grasp new concepts—but not moving beyond these distorting definitions can greatly hobble a Jira project.
 
-## Agency agile
+## Agile at an Agency
 My use of agile is within a web agency, My product owners are (typically) my clients, and many do not have substantive experience with scrum practices. What’s more, the product owner and the client are often one and the same. While good product owners keep stakeholder expectation inline with reality, clients (or humans as a whole) have tough times saying no, or not right now, to themselves.
 
 Here’s where effective use of epics can pay serious dividends. Rather viewing an epic like a supersized user story, I think of epics as all the things the client wants at the end of the project, laid out like a grocery list. While you won’t have all the epics you will need to get to done at the beginning of the engagement, the bulk of the epics can be plucked right from the SOW deliverables. These come in handy during backlog refinements, since it paints a clearer idea for the client the steps necessary to complete a request fully. And once you have a slew of tickets, being able to visually show the breakdown of what work is needed to complete which deliverable is hugely beneficial. We may refine backlogs at the ticket level, but stepping back to assess at the epic level can put priorities in perspective.

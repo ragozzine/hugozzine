@@ -52,7 +52,9 @@
 		{{- partial "disqus.html" . -}}
 		{{- end -}}
 
+{{ if eq .Type "posts" }}
 		{{ partial "prev-next-post.html" . }}
+{{ end }}
 
 	</div>
 	{{ partial "footer.html" . }}

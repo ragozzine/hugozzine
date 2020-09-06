@@ -3,6 +3,7 @@ layout: post
 title:  Ixnay on the “you guys,” yous guys
 date:   2016-03-16  00:00:00
 author: johnr
+type: posts
 ---
 
 Word choice is important, a fact not lost on famed Norse explorer [Eric the Red](https://en.wikipedia.org/wiki/Erik_the_Red). When he discovered a semi-inhabitable landmass northwest of his native Iceland, he knew he needed a snappy name to attract settlers. How else would you get people to move to a giant, rocky ice slab [roughly the size of the midwestern United States](http://www.mylifeelsewhere.com/compare/united-states/greenland)?And so he dubbed it “Greenland” and tapped into the verdant dreams of his people, thereby successfully pulling off the greatest bait-and-switch ever.And while some word choices can birth a nation, others have the power to elevate (a Subway “sandwich artist”) or deride (literally any racial slur). But many words are more nuanced in how we use them and how they affect both people, or an environment. I’ve written before about [seven words you can’t say to client](/posts/2015-09-29-seven-things-you-can-never-say-on-project-calls), but there’s one phrase that I constantly hear that just plain bothers me: “you guys.”

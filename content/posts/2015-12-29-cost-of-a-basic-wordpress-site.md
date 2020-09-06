@@ -3,6 +3,8 @@ layout: post
 title:  The cost of a basic WordPress site
 date:   2015-12-29  00:00:00
 author: johnr
+type: posts
+tags: [wordpress]
 ---
 
 Stop me if you heard this one. A person walks up to a web developer and asks, “So how much would it cost for, like, a basic website?” We’ve all been there and have tried to explain that “it depends” without coming off sounding like a shyster.

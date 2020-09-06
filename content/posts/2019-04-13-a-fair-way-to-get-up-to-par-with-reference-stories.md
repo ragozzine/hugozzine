@@ -3,6 +3,8 @@ layout: post
 title:  A fair way to get up to par with reference stories
 date:   "2019-04-13"
 author: johnr
+type: posts
+tags: [estimation]
 ---
 
 Story pointing can feel a little wishy-washy, especially on teams that are new to scrum. While the inherent ambiguity to point estimation belies its power, folks need some place to hang their hat in grasping this concept.

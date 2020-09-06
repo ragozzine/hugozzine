@@ -3,6 +3,7 @@ layout: post
 title:  Being bitten by bytes
 date:   2016-03-01  00:00:00
 author: johnr
+type: posts
 ---
 
 Collective nouns are single words for a group of things and I love them all (except for “guys”&mdash;that’s a bad one). I especially enjoy animal group names. Get three or more bears together, and it’s known as a sleuth. Same with a pride of lions, a bale of turtles, or a romp of otters. [Bird collectives have the best names](http://birding.about.com/od/birdingglossary/a/groupsofbirds.htm): a murder of crows, a chain of bobolinks, a deceit of lapwings.

@@ -3,6 +3,8 @@ layout: post
 title:  WordPress, In crisis
 date:   2016-04-20  00:00:00
 author: johnr
+type: posts
+tags: [wordpress]
 ---
 
 One of the selling points for (the free software that is) WordPress is its user friendliness. Intuitive, accessible, open&mdash;all of these words are at the root of what WordPress is and why it is of such benefit to the publishing world. I largely agree with this.

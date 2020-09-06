@@ -3,6 +3,7 @@ layout: post
 title:  What is a CDN? A visual explanation
 date:   2015-12-06  00:00:00
 author: johnr
+type: posts
 ---
 
 A CDN ([Content Delivery Network](http://www.webopedia.com/TERM/C/CDN.html)),more commonplace in hosting plan offerings, is a must for any business site. By hosting web content on servers spread across the globe, content can be delivered to a user faster by using relatively localized servers.

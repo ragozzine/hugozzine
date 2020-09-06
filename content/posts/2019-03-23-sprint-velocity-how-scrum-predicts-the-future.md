@@ -3,6 +3,8 @@ layout: post
 title:  Sprint velocity - How scrum predicts the future
 date:   2019-03-23  00:00:00
 author: johnr
+type: posts
+tags: [scrum, velocity]
 ---
 
 A common question I am asked is “How will scrum deliver my projects on time?” and the honest answer is: _it may not_. Scrum is not a cure-all that can somehow force 10lbs of crap into a 5lbs bag. If a project contains too much scope and not enough time to do everything nothing can change that (especially not by adding more people to the mix).

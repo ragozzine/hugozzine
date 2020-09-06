@@ -3,6 +3,7 @@ layout: post
 title:  How to succeed when working remotely - Lessons learned from a Chinese buffet
 date:   2015-11-14  00:00:00
 author: johnr
+type: posts
 ---
 
 Working from home can be an amazingly fulfilling career experience. Likewise, a trip to your local Chinese food buffet can be a culinary delight. But both can also be abjectly horrible. Here is my breakdown on how to succeed at working remotely without the debilitating pains of post-dumpling bloat.

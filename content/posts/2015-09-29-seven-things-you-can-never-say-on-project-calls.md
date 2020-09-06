@@ -3,6 +3,8 @@ layout: post
 title:  Seven things you can never say on project calls
 date:   2015-09-29  00:00:00
 author: johnr
+type: posts
+tags: [clients]
 ---
 
 The words we use communicate shades of meaning that we might not want. Here’s a list of seven words that I strive to not use when discussing a project with a client or with my team.

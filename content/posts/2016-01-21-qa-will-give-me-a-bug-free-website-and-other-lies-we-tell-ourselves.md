@@ -3,6 +3,7 @@ layout: post
 title:  QA will give me a bug-free website and other lies we tell ourselves
 date:   2016-01-21  00:00:00
 author: johnr
+type: posts
 ---
 
 If you work for a large corporation or on a project with limitless coffers, you have likely enjoyed working with a dedicated QA team. You build the website or oversee the coding efforts then hand off your labors to a separate team who systematically kicks the tires and identifies bugs with your work, reporting back on everything.

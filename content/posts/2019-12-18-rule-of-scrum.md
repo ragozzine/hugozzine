@@ -3,6 +3,8 @@ layout: post
 title:  Rule of Scrum
 date:   "2019-12-18"
 author: johnr
+type: posts
+tags: [scrum, agile coaching]
 ---
 
 As a scrum master and coach, I see the phrase “doing scrum wrong” thrown around a lot. Scrum practitioners often worry about making missteps, while detractors lambast scrum as being unrealistic and too rigid for how “the real world works.” In both cases, scrum is cast as a magical route through a maze of death traps (i.e. any project ever). Deviate from this hallowed path and you will surely wind up impaled at the bottom of a spike pit or crushed by a surprisingly spherical boulder.
