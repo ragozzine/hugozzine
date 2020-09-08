@@ -16,6 +16,8 @@
 			{{ .Content }}
 		</div>
 
+{{ if .Params.podcast }} {{ partial "pod-player.html" . }} {{ end }}
+
 		<div class="post-tags">
 			{{ if ne .Type "page" }}
 				{{ if gt .Params.tags 0 }}
@@ -29,6 +31,7 @@
 				{{ end }}
 			{{ end }}
 		</div>
+
 		{{- $.Scratch.Set "isDisqus" true -}}
 
 		<!-- Disable if content type is excluded in config -->
