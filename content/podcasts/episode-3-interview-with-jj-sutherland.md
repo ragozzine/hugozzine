@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3. Interview with JJ Sutherland
+title:  Episode 3. Interview with JJ Sutherland
 date:   "2020-05-19"
 author: johnr
 type: posts
