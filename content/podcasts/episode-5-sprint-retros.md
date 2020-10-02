@@ -3,7 +3,7 @@ layout: post
 title:  Episode 5. Sprint Retros
 date:   "2020-06-02"
 author: johnr
-type: posts
+type: podcasts
 episode: 4007069-5-sprint-retros.mp3
 podcast: true
 ---

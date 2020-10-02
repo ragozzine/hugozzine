@@ -3,7 +3,7 @@ layout: post
 title:  Episode 7. Continuous Improvement with Kaizen
 date:   "2020-06-16"
 author: johnr
-type: posts
+type: podcasts
 episode: 4107104-7-continuous-improvement-with-kaizen.mp3
 podcast: true
 ---

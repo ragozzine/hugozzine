@@ -3,7 +3,7 @@ layout: post
 title:  Episode 9. Story Points
 date:   "2020-06-30"
 author: johnr
-type: posts
+type: podcasts
 episode: 4197494-9-story-points.mp3
 podcast: true
 ---

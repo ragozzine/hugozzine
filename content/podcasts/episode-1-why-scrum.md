@@ -3,7 +3,7 @@ layout: post
 title:  Episode 1. Why Scrum?
 date:   "2020-05-05"
 author: johnr
-type: posts
+type: podcasts
 episode: 3553117-1-why-scrum.mp3
 podcast: true
 ---

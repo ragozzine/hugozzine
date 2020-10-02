@@ -3,7 +3,7 @@ layout: post
 title:  Episode 3. Interview with JJ Sutherland
 date:   "2020-05-19"
 author: johnr
-type: posts
+type: podcasts
 episode: 3566767-3-interview-with-jj-sutherland.mp3
 podcast: true
 ---

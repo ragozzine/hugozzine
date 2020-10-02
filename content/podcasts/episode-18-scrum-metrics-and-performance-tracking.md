@@ -3,7 +3,7 @@ layout: post
 title:  Episode 18. Scrum Metrics and Performance Tracking
 date:   "2020-09-01"
 author: johnr
-type: posts
+type: podcasts
 episode: 4981571-18-scrum-metrics-and-performance-tracking.mp3
 podcast: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  Episode 11. Sprint Goals
 date:   "2020-07-14"
 author: johnr
-type: posts
+type: podcasts
 episode: 4028612-11-sprint-goals.mp3
 podcast: true
 ---

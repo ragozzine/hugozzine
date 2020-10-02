@@ -3,7 +3,7 @@ layout: post
 title:  Episode 19. Hunting for Impediments
 date:   "2020-09-08"
 author: johnr
-type: posts
+type: podcasts
 episode: 3841727-19-hunting-for-impediments.mp3
 podcast: true
 ---

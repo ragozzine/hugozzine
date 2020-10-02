@@ -3,7 +3,7 @@ layout: post
 title:  Episode 13. Make Work Visible
 date:   "2020-07-28"
 author: johnr
-type: posts
+type: podcasts
 episode: 4592366-13-make-work-visible.mp3
 podcast: true
 ---

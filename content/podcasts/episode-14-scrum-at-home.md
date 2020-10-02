@@ -3,7 +3,7 @@ layout: post
 title:  Episode 14. Scrum at Home
 date:   "2020-08-04"
 author: johnr
-type: posts
+type: podcasts
 episode: 4763600-14-scrum-at-home.mp3
 podcast: true
 ---

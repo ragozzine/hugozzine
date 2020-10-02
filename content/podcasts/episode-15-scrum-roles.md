@@ -3,7 +3,7 @@ layout: post
 title:  Episode 15. Scrum Roles
 date:   "2020-08-11"
 author: johnr
-type: posts
+type: podcasts
 episode: 4778942-15-scrum-roles.mp3
 podcast: true
 ---

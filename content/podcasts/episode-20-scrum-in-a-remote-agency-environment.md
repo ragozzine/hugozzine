@@ -3,7 +3,7 @@ layout: post
 title:  Episode 20. Scrum in a Remote Agency Environment
 date:   "2020-09-15"
 author: johnr
-type: posts
+type: podcasts
 episode: 5172730-20-scrum-in-a-remote-agency-environment.mp3
 podcast: true
 ---

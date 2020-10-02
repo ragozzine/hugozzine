@@ -3,7 +3,7 @@ layout: post
 title:  Episode 17. Backlog Refinement
 date:   "2020-08-25"
 author: johnr
-type: posts
+type: podcasts
 episode: 4886024-17-backlog-refinement.mp3
 podcast: true
 ---

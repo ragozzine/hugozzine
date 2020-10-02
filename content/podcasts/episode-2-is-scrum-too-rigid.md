@@ -3,7 +3,7 @@ layout: post
 title:  Episode 2. Is Scrum too rigid?
 date:   "2020-05-12"
 author: johnr
-type: posts
+type: podcasts
 episode: 3554512-2-is-scrum-too-rigid.mp3
 podcast: true
 ---

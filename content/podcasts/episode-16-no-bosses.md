@@ -3,7 +3,7 @@ layout: post
 title:  Episode 16. No Bosses
 date:   "2020-08-18"
 author: johnr
-type: posts
+type: podcasts
 episode: 4981433-16-no-bosses.mp3
 podcast: true
 ---

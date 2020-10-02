@@ -3,7 +3,7 @@ layout: post
 title:  Episode 8. Agile Design
 date:   "2020-06-23"
 author: johnr
-type: posts
+type: podcasts
 episode: 4239461-8-agile-design.mp3
 podcast: true
 ---

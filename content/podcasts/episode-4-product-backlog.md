@@ -3,7 +3,7 @@ layout: post
 title:  Episode 4. Product Backlog
 date:   "2020-05-26"
 author: johnr
-type: posts
+type: podcasts
 episode: 3635110-4-product-backlog.mp3
 podcast: true
 ---
