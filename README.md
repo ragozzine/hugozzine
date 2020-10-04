@@ -1,10 +1,14 @@
-## Don't forget
+# Hi, I'm John!
 
-In **hugozzine**
+These are the content and theme files that make my personal site: (ragozzine.me)[ragozzine.me]
+
+## Every time I deploy code (my own little cheatsheet)
+
+In **project folder**
 
 `./deploy.sh "a commit message"`
 
-Go back into **hugozzine**
+Go back into **project folder**
 ```
 git add .
 git commit -m "a commit message"
