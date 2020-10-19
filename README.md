@@ -12,5 +12,5 @@ Go back into **project folder**
 ```
 git add .
 git commit -m "a commit message"
-git push origin master
+git push origin main
 ```
