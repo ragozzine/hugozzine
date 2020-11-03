@@ -11,7 +11,7 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-49362078-3"
+googleAnalytics = ""
 disqusShortname = ""
 
 summaryLength = 20
