@@ -5,6 +5,8 @@ date:   "2019-04-02"
 author: johnr
 type: posts
 tags: [velocity]
+katex: true
+markup: "mmark"
 ---
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
