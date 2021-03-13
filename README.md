@@ -6,9 +6,6 @@ These are the content and theme files that make my personal site: [ragozzine.me]
 
 > `hugo -D`
 
-> `./deploy.sh "a commit message"`
-
-
 > ```
 > git add .
 > git commit -m "a commit message"
