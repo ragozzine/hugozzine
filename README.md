@@ -1,6 +1,6 @@
 These are the content and theme files that make my personal site: [ragozzine.me](https://ragozzine.me)
 
-[![GitHub Pages Status](https://github.com/ragozzine/hugozzine/workflows/GitHub%20Pages/badge.svg)](https://github.com/ragozzine/hugozzine/actions)
+[![CI](https://github.com/ragozzine/hugozzine/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ragozzine/hugozzine/actions/workflows/main.yml)
 
 ![Test](https://github.com/ragozzine/hugozzine/workflows/CI/badge.svg?branch=main&event=push)
 
