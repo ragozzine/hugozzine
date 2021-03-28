@@ -1,0 +1,155 @@
+// Font variables
+$header-family: 'Jost', sans-serif;
+$body-family: 'Kumbh Sans', sans-serif;
+$code-family: 'Ubuntu Mono', monospace;
+// color variables
+$color-bg: #efefef;
+$color-accent-primary: #d95d39;
+$color-accent-secondary: #ecab3f;
+$color-accent-tertiary: #1a2d62;
+
+html, body {
+  background-color: $color-bg;
+  font-family: $body-family;
+}
+
+.nav, .burger__container, .post__footer {
+    background-color: $color-bg;
+}
+
+.fancy {
+  color: $color-accent-secondary;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-family;
+}
+
+
+.splash h2 {
+  font-size: 24px;
+    line-height: 1.6;
+}
+
+
+a.splash-link {
+    padding: 2px 5px;
+    border-bottom: 1px solid $color-accent-tertiary;
+		color: $color-accent-tertiary;
+		text-decoration: none;
+		transition: color .5s ease-out;
+		//transition: background-image $linkAnimationSpeed ease-in-out;
+		background-size: 100% 200%;
+		background-image: linear-gradient(to top,
+			transparent 0%,
+			transparent 50%,
+			$color-accent-tertiary 50%,
+			$color-accent-tertiary 100%);
+		background-position: 0 100%;
+		will-change: background-position;
+
+		&:hover {
+			animation: backgroundAnimateIn .3s;
+			// animation-play-state : running;
+			animation-fill-mode: forwards;
+
+	}
+}
+
+@keyframes backgroundAnimateIn {
+	0% {
+		background-position: 0 -100%;
+	}
+	63% {
+		background-position: 0 -95%;
+	}
+	86% {
+		background-position: 0 2.5%;
+	}
+	100% {
+		color: white;
+		background-position: 0 0%;
+	}
+}
+
+
+pre, code {
+  font-family: $code-family;
+  font-size: 105%;
+  color: $color-accent-tertiary;
+  background-color: lighten($color-accent-tertiary, 60%);
+}
+
+h2.post__title a:hover {
+  color: lighten(#111, 50%);
+}
+
+.post__content a {
+    padding: 2px 5px;
+    border-bottom: 1px solid $color-accent-primary;
+		color: $color-accent-primary;
+		text-decoration: none;
+		transition: color .5s ease-out;
+		//transition: background-image $linkAnimationSpeed ease-in-out;
+		background-size: 100% 200%;
+		background-image: linear-gradient(to top,
+			transparent 0%,
+			transparent 50%,
+			$color-accent-primary 50%,
+			$color-accent-primary 100%);
+		background-position: 0 100%;
+		will-change: background-position;
+
+		&:hover {
+			animation: backgroundAnimateIn .3s;
+			// animation-play-state : running;
+			animation-fill-mode: forwards;
+
+	}
+}
+
+.post h2 a.anchor, .post h3 a.anchor {
+    top: .5rem;
+    text-decoration: none;
+    border: none;
+    box-shadow: none;
+    position: absolute;
+    left: -1rem;
+    color: $color-accent-secondary;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 0px;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    transition: 0.3s;
+}
+
+.post h2 a.anchor:hover, .post h3 a.anchor:hover {
+  color: lighten($color-accent-secondary, 10%);
+  background: $color-bg;
+}
+
+.tag__link, a.tag__link {
+  background-color: $color-accent-secondary;
+  color: lighten($color-accent-secondary, 30%);
+  -webkit-transition: background-color 0.5s;
+  -moz-transition: background-color 0.5s;
+  -o-transition: background-color 0.5s;
+  transition: 0.5s;
+}
+
+.tag__link:hover, a.tag__link:hover {
+  color: $color-accent-secondary;
+  background-color: lighten($color-accent-secondary, 30%);
+}
+
+.tag__item {
+  margin: 5px 0;
+}
+
+.tag__item a {
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 10px;
+}

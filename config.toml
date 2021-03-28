@@ -1,66 +1,78 @@
-baseURL = "https://ragozzine.me/"
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex"
 
+# Override these settings with your own
+title = "ragozzine.me"
 languageCode = "en-us"
-title = "John Ragozzine"
-theme = "ezhil"
-paginate = 5
+baseURL = "https://ragozzine.me/"
+copyright = "©2015 - {year} :: John Ragozzine"
 
-copyright = "© John Ragozzine"
+# Add your Disqus shortname here.
+# disqusShortname = ""
 
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# googleAnalytics = ""
 
-googleAnalytics = ""
-disqusShortname = ""
-
-summaryLength = 20
-
+# Optional params
 [params]
-  Description = "Director of Agile Process at alley.co | Co-host of twoscrumsup.com podcast | Certified Scrum Master (CSM) | Project Management Professional (PMP) | I like birds."
-	subtitle = "Scrum, tech, and whatnot"
-	disableDisqusTypes = ["page"]
-	featherIconsCDN = true
-	mode = "light" # "dark", "auto", "light"
-	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	# customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
-    mainSections = ["posts", "podcasts"]
+  description = "John Ragozzine :: Director of Agile Process at alley.co | Co-host of twoscrumsup.com podcast | Certified Scrum Master (CSM) | Project Management Professional (PMP) | I like birds."
+  # Follow the Hugo date/time format reference here:
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "January 2, 2006"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  # twitter = "https://twitter.com/<your handle>"
+  github = "https://github.com/ragozzine"
+  # email = "mailto:<your email>"
+  # mastodon = "https://mastodon.social/@nickname"
+  # facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  # instagram = "https://instagram.com/<your handle>"
+  linkedin = "https://www.linkedin.com/in/johnragozzine/"
+  # youtube = "https://www.youtube.com/channel/<your channel>"
+
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported:
+  #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconOrder = ["GitHub", "LinkedIn"]
+
+  # Metadata for Twitter cards, defaults to params.twitter
+  # twitterSite = "@<your handle>"
+  # twitterAuthor = "@<your handle>"
+
+  # Set to true to display page title in table of contents in blog posts.
+  showPageTitleInTOC = false
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "home"
+  name = "home"
+  title = "home"
+  url = "/"
+  weight = "1"
 
 [[menu.main]]
-name = "Articles"
-url = "/posts"
-weight = 1
+  identifier = "blog"
+  name = "blog"
+  title = "articles"
+  url = "/blog"
+  weight = "2"
 
 [[menu.main]]
-name = "Podcasts"
-url = "/podcasts"
-weight = 2
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-[[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 4
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/ragozzine"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/johnragozzine/"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
-[taxonomies]
-   tag = "tags"
+  identifier = "about"
+  name = "about"
+  title = "about"
+  url = "/about"
+  weight = "3"

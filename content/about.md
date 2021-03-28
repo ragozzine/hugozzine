@@ -1,11 +1,11 @@
 ---
-title: "Hi, I'm John!"
+title: "About John Ragozzine"
 type: "page"
 ---
 
-I'm the Director of Agile Process at [Alley](https://alley.co/), a fully remote web agency running Scrum@Scale. The Scrum Master on the data visualization team, I work closely with all of Alley’s SMs, both as a collaborator and an Agile Coach.
+Hi! I'm the Director of Agile Process at [Alley](https://alley.co/), a fully remote web agency running Scrum@Scale. The Scrum Master on the data visualization team, I work closely with all of Alley’s SMs, both as a collaborator and an Agile Coach.
 
-I host a podcast, [Two Scrums Up](http://twoscrumsup.com/), which focuses on sharing Agile anecdotes, successes, and missteps. New episodes come out every Tuesday.
+I host a podcast, [Two Scrums Up](http://twoscrumsup.com/), which focuses on sharing Agile anecdotes, successes, and missteps. New episodes come out every other Tuesday.
 
 I live in Raleigh, North Carolina, USA.
 

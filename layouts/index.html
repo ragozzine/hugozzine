@@ -1,40 +1,23 @@
-<!DOCTYPE html>
-<html>
-{{ partial "header.html" . }}
-<body>
-	<div class="container wrapper">
-		{{ partial "head.html" . }}
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ end }}
 
-		{{ with .Content }}{{ . }}{{ end }}
+{{ define "main" }}
 
-		<div class="recent-posts section">
-			<h2 class="section-header">
-				Recent Articles
-			</h2>
-			<div class="posts">
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
-				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
-					<span class="description">
-						{{ if isset .Params "description" }}
-						{{ .Description }}
-						{{ else }}
-						{{ .Summary }} 	<a href="{{ .RelPermalink }}">&rarr;</a>
-						{{ end }}
-					</span>
-				</div>
-				{{ end }}
-				{{ template "partials/paginator.html" . }}
-			</div>
-		</div>
+<div class="splash-container">
+  <div class="splash">
 
+    <h1>{{ .Params.heading }}<span class="fancy">!</span></h1>
+    {{ if isset .Params "handle" }}
+    <span class="handle">@{{ .Params.handle }}</span>
+    {{ end }}
+    <h2>
+      {{ .Params.subheading | safeHTML }}
+    </h2>
+    <!-- Replace MEEEEE -->
 
-	{{ partial "footer.html" . }}
-</body>
+    {{ partial "social-icons.html" .}}
+  </div>
+</div>
 
-{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
-
-</html>
+{{ end }}
